@@ -1,7 +1,7 @@
 {
   "name": "better-mocha-html-reporter",
   "description": "A better HTML reporter for Mocha, forked from mocha-html-reporter",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
     "name": "Charles Burgess",
     "email": "consulting@cvburgess.com"

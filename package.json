@@ -1,0 +1,24 @@
+{
+  "name": "better-mocha-html-reporter",
+  "description": "A better HTML reporter for Mocha, forked from mocha-html-reporter",
+  "version": "0.1.0",
+  "author": {
+    "name": "Charles Burgess",
+    "email": "consulting@cvburgess.com"
+  },
+  "keywords": [
+    "mocha",
+    "reporter",
+    "html"
+  ],
+  "licenses": "MIT",
+  "dependencies": {},
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cvburgess/better-mocha-html-reporter"
+  }
+}
